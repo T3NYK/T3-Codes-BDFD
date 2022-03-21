@@ -1,0 +1,6 @@
+$argsCheck[>1;❌ | Você Precisa Mencionar Alguém! Para executar o comando.]
+$title[🖼 Avatar de <@$mentioned]
+$color[f60095]
+$description[Aqui está!]
+$image[$userAvatar[$mentioned[<]]]
+$nomention
