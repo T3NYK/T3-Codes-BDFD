@@ -1,0 +1,16 @@
+Codigos para Bot Designer for Discord!
+
+Comando:💬|Mensagem
+
+Gatilho:!message/qual você quiser
+
+$nomention
+$argsCheck[>1; :x: Você não informou o texto.]
+$deletecommand
+$description[$message]
+$color[00ff00]
+
+Se inscreva no meu canal!
+https://youtube.com/channel/UC0c8R6B9A3yyOGvmKb6lHIw
+
+
