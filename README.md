@@ -1,1 +1,2 @@
-Não sei de nada
+Scripts de Bot Designer for Discord (BDFD)
+Scripts em pt-br
