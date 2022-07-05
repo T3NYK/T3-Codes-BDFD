@@ -1,0 +1,18 @@
+Comando: 🌐 | Informações do Servidor
+Gatilho: !avatar
+
+$nomention 
+$title[🌐・**Informações de Servidor**・🌐]
+$footer[$username você é top! ✌ | ]
+$color[$random[0;999999]]
+$serverInfo[
+📄・Nome: {name}
+👥・$membersCount membros
+🌎・Região: {region}
+👑・Dono: {owner}
+✅・Verificado: {verificationLvl}
+😄・Emojis costumizados: {emoji}]
+$addTimestamp
+
+Se inscreva no meu canal!
+https://youtube.com/channel/UC0c8R6B9A3yyOGvmKb6lHIw
