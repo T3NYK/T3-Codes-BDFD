@@ -4,12 +4,15 @@ Comando: 🖼 Avatar|
 
 Gatilho: !Avatar
 
-$argsCheck[>1;❌ | Você Precisa Mencionar Alguém! Para executar o comando.]
-$title[🖼 Avatar de <@$mentioned]
-$color[f60095]
-$description[Aqui está!]
-$image[$userAvatar[$mentioned[<]]]
-$nomention
+﻿$title[👻┋Avatar de $username[$mentioned[1;yes]]]
+
+$description[Baixe o avatar clicando **[aqui!]($userAvatar[$mentioned[1;yes]])**]
+
+$image[$userAvatar[$mentioned[1;yes]]?size=2048]
+
+$color[ffffff]
+
+$footer[$username você é top! ✌]
 
 Se inscreva no meu canal
 https://youtube.com/channel/UC0c8R6B9A3yyOGvmKb6lHIw
