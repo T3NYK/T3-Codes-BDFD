@@ -1,2 +1,1 @@
-Scripts de Bot Designer for Discord (BDFD)
-Scripts em pt-br
+BDScript Bot Desihner for Discord BR
